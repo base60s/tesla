@@ -3,7 +3,8 @@ import os
 import openai  # Changed import statement
 
 # Load the JSON file
-file_path = '/Users/mauriciovelez/Desktop/TSLA-Q2-2024-Update.json'
+file_path = '/Users/mauriciovelez/Desktop/TSLA-Q2-2024-Update.json' # Adjust the file path 
+
 
 # Read the JSON file
 with open(file_path, 'r') as file:
